@@ -10,7 +10,7 @@ Job finder without having to download anything. Doesn't consume phone storage no
 * Text the number +1 (908) 259-6633
 * Then the message --> Job field, zip code, !optional
 
-### E.g.  " Software Engineering, 07208 "
+### E.g.  " Computer Science, 07208 "
 ![Screenshot](screenshots/screenshot1.jpg)    
 
 
