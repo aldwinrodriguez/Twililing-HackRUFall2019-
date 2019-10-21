@@ -11,7 +11,7 @@ Job finder without having to download anything. Doesn't consume phone storage no
 * Then the message --> Job field, zip code, !optional
 
 ### E.g.  " Computer Science, 07208 "
-![Screenshot](screenshots/screenshot1.jpg)    
+<img src="screenshots/screenshot1.jpg" alt="alt text" width="540" height="700">  
 
 
 The third parameter is optional, it is for urgency options.  
