@@ -24,7 +24,8 @@ app.post('/sms', (req, res) => {
 
     let args = [];
     let counter = 0;
-
+    
+    // Splices words separated by commas, then add them to an Array
     for (let i = 0; i < arg.length; i++) {
         if (arg[i] == ',') {
             args.push(arg.substring(counter, i));
