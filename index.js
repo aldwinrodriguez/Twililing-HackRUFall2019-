@@ -91,5 +91,10 @@ app.post('/sms', (req, res) => {
     });
 });
 
+let port = process.env.PORT;
+if (port == null || port == "") {
+    port = 3000;
+}
+app.listen(port);
 
-app.listen(1337, () => console.log('Express server listening on port 1337'));
+// app.listen(1337, () => console.log('Express server listening on port 1337'));
