@@ -50,7 +50,7 @@ app.post('/sms', (req, res) => {
     request(obj, function (error, response, body) {
         const $ = cheerio.load(body);
         let mess = '';
-
+        console.log($);
         const job_position = [];
         const job_company = [];
         const job_location = [];
