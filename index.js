@@ -77,14 +77,9 @@ app.post("/sms", (req, res) => {
         mess +
         `\n${job_company[i]} \n🏢 ${job_position[i]} \n🌍${job_location[i]}\n\n`;
     }
+
     let ur =
-      obj.uri +
-      "?q=" +
-      args[0] +
-      "&radius=20w=" +
-      args[1] +
-      "&promotedonly=" +
-      args[2];
+      obj.uri + "?q=" + args[0].replace(" ", "+") + "&radius=20&w=" + args[1];
     mess += `\nVisit: ${ur}`;
 
     // TODO: add multiple messages, so that u can send more query messages
