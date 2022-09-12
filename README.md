@@ -15,7 +15,8 @@ Job finder without having to download anything. Doesn't consume phone storage no
 ### Optional  
 The third parameter is optional, it is for urgency options.  
 Set to true if you're looking for companies who are urgently hiring (good for people who needs a job or money ASAP)  
-Set to false if not (This is default, so you don't need to specify the third parameter)  
+Set to false if not (This is default, so you don't need to specify the third parameter) 
+
 
 ## Devpost link
 https://devpost.com/software/twilliling
