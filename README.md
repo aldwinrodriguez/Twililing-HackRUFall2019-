@@ -11,7 +11,7 @@ Job finder without having to download anything. Doesn't consume phone storage no
 ## Might not work with non-verified numbers because Twilio doesn't give trial accounts anymore. But once the message is receieved from the web app, I will allow your number to access the app.
 
 ### E.g.  " Computer Science, 07208 "
-<img src="screenshot/screenshot1.jpg" alt="alt text" width="828" height="1553">  
+<img src="screenshot/screenshot1.jpg" alt="alt text" width="414" height="776">  
 
 
 ### Optional  
