@@ -3,14 +3,14 @@
 # Description:
 Job finder without having to download anything. Doesn't consume phone storage nor data. All you need is phone signal.
 
-### E.g. Computer Science, 07208
+
 # IMPORTANT !! Might not work with non-verified numbers because Twilio doesn't give trial accounts anymore. But once the message is receieved from the web app, I will allow your number to access the app.  
 
 ## Steps on how to use it:
 * Text the number +1 (908) 460-7660
 * Then the message --> Job field, zip code, !optional (see Optional section below)  
 !! IMPORTANT - must be separted by comma space ", "
-
+### E.g. Computer Science, 07208
 
 ### E.g.  " Computer Science, 07208 "
 <img src="screenshot/screenshot1.jpg" alt="alt text" width="414" height="776">  
