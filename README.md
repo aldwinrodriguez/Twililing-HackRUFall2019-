@@ -8,7 +8,7 @@ Job finder without having to download anything. Doesn't consume phone storage no
 * Then the message --> Job field, zip code, !optional (see Optional section below)  
 !! IMPORTANT - must be separted by comma space ", "
 ### E.g. Computer Science, 07208
-## Might not work with non-verified numbers because Twilio doesn't give trial accounts anymore. But once the message is receieved from the web app, I will allow your number to access the app.
+# IMPORTANT !! Might not work with non-verified numbers because Twilio doesn't give trial accounts anymore. But once the message is receieved from the web app, I will allow your number to access the app.
 
 ### E.g.  " Computer Science, 07208 "
 <img src="screenshot/screenshot1.jpg" alt="alt text" width="414" height="776">  
@@ -21,4 +21,6 @@ Set to false if not (This is default, so you don't need to specify the third par
 
 
 ## Devpost link
-https://devpost.com/software/twilliling
+https://devpost.com/software/twilliling  
+
+For more, email me at aldwindrodriguez@gmail.com
